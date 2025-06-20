@@ -526,13 +526,13 @@ public class BSTVisualization extends JFrame implements ActionListener, KeyListe
 	public static void main(String arg[]) {
 		BSTVisualization bst = new BSTVisualization();
 
-		bst.add(600);
-		bst.add(1200);
-		bst.add(1350);
-		bst.add(2200);
-		bst.add(2750);
+		bst.add(700);
+		bst.add(800);
+		bst.add(850);
+		bst.add(900);
+		bst.add(1250);
 		bst.add(1000);
-		bst.add(3200);
-		bst.add(4340);
+		bst.add(1300);
+		bst.add(1440);
 	}
 }
